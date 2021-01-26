@@ -14,6 +14,11 @@ const GlobalStyles = createGlobalStyle`
     font-family: 'Inter', sans-serif;
     }
 
+    body {
+        width : 100%;
+        height: 100vh;
+    }
+
     a {
     color: inherit;
     text-decoration: none;
